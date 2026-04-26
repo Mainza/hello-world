@@ -1,2 +1,2 @@
 # hello-world
-hi my name is Mainza. I interested in learning how to code a mobile app.
+Hi, my name is Mainza. I am interested in learning Networking and Cloud engineering.
